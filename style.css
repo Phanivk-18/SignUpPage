@@ -10,7 +10,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url("./Images/Forest.jpg");
+    background-image: url("Forest.jpg");
     background-size: cover;
     background-position: center;
 }
